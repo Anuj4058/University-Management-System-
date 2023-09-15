@@ -4,44 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="835f8bc2-e7d5-48dc-a6f8-ebcaed6a3dfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ResultSet2xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar_tz_1_3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/University Management System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/exam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/fee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/first.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/loginback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/second.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/third.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/AddFaculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/AddStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/Conn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/EnterMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/ExaminationDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/FeeStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/Marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/Splash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/StudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/StudentFeeForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/StudentLeave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/StudentLeaveDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/TeacherDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/TeacherLeave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/TeacherLeaveDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/UpdateTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/main_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/university/management/system/updateStudent.java" afterDir="false" />
+    <list default="true" id="835f8bc2-e7d5-48dc-a6f8-ebcaed6a3dfe" name="Changes" comment="University Management System">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
+  &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2V7bOHryRapuYCESvK0ECIRmFh9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -93,9 +56,31 @@
       <option name="presentableId" value="Default" />
       <updated>1694190033159</updated>
     </task>
+    <task id="LOCAL-00001" summary="University Management System">
+      <option name="closed" value="true" />
+      <created>1694545462835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694545462835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="University Management System" />
+    <option name="LAST_COMMIT_MESSAGE" value="University Management System" />
   </component>
 </project>
